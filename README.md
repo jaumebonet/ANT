@@ -1,5 +1,5 @@
-#ANT
-###Ambiguous Nucleotide Tool (ANT) is a software for generating and evaluating degenerate codons for natural and expanded genetic codes.
+# ANT
+### Ambiguous Nucleotide Tool (ANT) is a software for generating and evaluating degenerate codons for natural and expanded genetic codes.
 
 =====
 
